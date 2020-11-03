@@ -16,7 +16,7 @@
   1.Leuke 
   1.hé!
 
-![This is a alt text.](/image/DemoFoto.jpg "This is a sample image.")
+
 
 | Left columns  | Right columns |
 | -------------------|:--------------------:|
